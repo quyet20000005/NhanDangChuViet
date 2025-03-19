@@ -21,9 +21,7 @@ Phát triển mô hình CNN để nhận diện chữ viết tay trên MNIST là
 ---
 
 ## 🌟 Giới thiệu
--Khi học sinh thực hiện các hành động Yolov7 sẽ nhanh chóng biết được hành động của học sinh đó là gì
-<br>
--Chắc chắn rằng không thể nào đúng được 100% và cũng vẫn sẽ có lỗi xảy ra
+Huấn luyện mô hình CNN để nhận biết các số từ 0-9
 ---
 ## 🏗️ HỆ THỐNG
 <p align="center">
