@@ -25,7 +25,7 @@ Huấn luyện mô hình CNN để nhận biết các số từ 0-9
 ---
 ## 🏗️ HỆ THỐNG
 <p align="center">
-  <img src="./anhimage/cbyolov7" alt="System Architecture" width="800"/>
+  <img src="cnn" alt="System Architecture" width="800"/>
 </p>
 
 ---
