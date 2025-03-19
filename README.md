@@ -15,9 +15,7 @@
 <h2 align="center">Phát triển mô hình CNN để nhận diện chữ viết tay trên dataset Mnist</h2>
 
 <p align="left">
-  Nhận diện hành vi học sinh trong lớp học sử dụng YOLOv7 là ứng dụng công nghệ AI để phát hiện hành vi như giơ tay, sử dụng điện thoại. YOLOv7 giúp nhận diện đối tượng trong ảnh/video theo thời gian thực, hỗ trợ giáo viên quản lý lớp học hiệu quả hơn. Công nghệ này giúp tăng cường sự tương tác và giám sát, nâng cao chất lượng dạy và học.
-
-
+Phát triển mô hình CNN để nhận diện chữ viết tay trên MNIST là ứng dụng AI trong xử lý ảnh, giúp phân loại chữ số viết tay một cách chính xác. CNN tự động trích xuất đặc trưng từ ảnh, nâng cao hiệu suất nhận diện so với các phương pháp truyền thống. Công nghệ này hỗ trợ số hóa tài liệu, nhận diện chữ viết và ứng dụng trong nhiều lĩnh vực như giáo dục, ngân hàng, và tự động hóa.
 </p>
 
 ---
