@@ -71,7 +71,7 @@ Nguồn dữ liệu: Bộ dữ liệu MNIST
 
   ## Bước 6: Đánh giá mô hình trên tập test
   ## Bước 7: Dự đoán chữ số từ ảnh mới
-  ## Lưu và tải lại mô hình
+  ## Bước 8: Lưu và tải lại mô hình
    
    
 
