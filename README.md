@@ -1,4 +1,4 @@
-<h1 align="center">NHẬN DIỆN HÀNH VI CỦA SINH VIÊN TRONG LỚP HỌC </h1>
+<h1 align="center">PHÁT TRIỂN MÔ HÌNH CNN ĐỂ NHẬN DIỆN CHỮ VIẾT TAY TRÊN BỘ DỮ LIỆU MNIST</h1>
 
 <div align="center">
 
