@@ -63,15 +63,15 @@ Nguồn dữ liệu: Bộ dữ liệu MNIST
  <h2>Bước 1:  Cài đặt môi trường</h2>
     <h2>Bước 2: Tải bộ dữ liệu MNIST</h2>
    
-    <h2>Bước 3: Xây dựng mô hình CNN</h2>
+  ## Bước 3: Xây dựng mô hình CNN
    
-    <h2>Bước 4:Cấu hình huấn luyện</h2>
+  ## Bước 4:Cấu hình huấn luyện 
    
-    <h2>Bước 5:  Huấn luyện mô hình</h2>
+  ## Bước 5:  Huấn luyện mô hình
 
-    <h2>Bước 6: Đánh giá mô hình trên tập test</h2>
-    <h2>Bước 7: Dự đoán chữ số từ ảnh mới</h2>
-    <h2>Lưu và tải lại mô hình</h2>
+  ## Bước 6: Đánh giá mô hình trên tập test
+  ## Bước 7: Dự đoán chữ số từ ảnh mới
+  ## Lưu và tải lại mô hình
    
    
 
